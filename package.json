@@ -1,0 +1,24 @@
+{
+  "name": "basicExpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/troyerl/basicExpress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/troyerl/basicExpress/issues"
+  },
+  "homepage": "https://github.com/troyerl/basicExpress#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
